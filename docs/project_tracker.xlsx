@@ -1,0 +1,19 @@
+| ID   | Week    | Module              | Task                          | Importance | Deliverable             | Status    |
+| ---- | ------- | ------------------- | ----------------------------  | ---------- | ----------------------- | --------- |
+| T001 | Week 1  | Setup               | Create Project Structure      | High       | Folder Structure        | Completed |
+| T002 | Week 1  | Setup               | Create GitHub Repository      | High       | Public Repository       | Completed |
+| T003 | Week 1  | Setup               | Install Python                | High       | Working Python          | Completed |
+| T004 | Week 1  | Setup               | Install PostgreSQL            | High       | Working Database        | Completed |
+| T005 | Week 1  | Setup               | Cricket Domain Research       | High       | cricket_domain_notes.md | Completed |
+| T006 | Week 1  | Setup               | KPI Definition                | High       | project_kpis.md         | Completed |
+| T007 | Week 1  | Setup               | Create Tracker                | Medium     | Tracker Sheet           | Completed |
+| T008 | Week 1  | Setup               | System Architecture Diagram   | High       | architecture.png        | Completed |
+| T009 | Week 1  | Biomechanics        | Batting Biomechanics Research | High       | batting_biomechanics.md | Completed |
+| T010 | Week 1  | Biomechanics        | Shot Phases Analysis          | High       | Shot Phase Notes        | Completed |
+| T011 | Week 1  | Biomechanics        | Head Stability Research       | High       | Head Stability Notes    | Completed |
+| T012 | Week 1  | Biomechanics        | Balance Analysis              | High       | Balance Notes           | Completed |
+| T013 | Week 1  | Biomechanics        | Bat Speed Research            | High       | Bat Speed Notes         | Completed |
+| T014 | Week 1  | Biomechanics        | Follow Through Analysis       | High       | Follow Through Notes    | Completed |
+| T015 | Week 1  | Biomechanics        | Shot Selection Framework      | High       | Shot Analysis Table     | Completed |
+| T016 | Week 1  | Analytics Design    | Analytics Mapping Framework   | High       | Mapping Tables          | Completed |
+
