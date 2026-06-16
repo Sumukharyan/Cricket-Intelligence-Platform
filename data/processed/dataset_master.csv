@@ -1,0 +1,4 @@
+shot_id,video_file,sensor_file,shot_type
+001,cover_drive_001.mp4,sensor_001.csv,cover_drive
+002,pull_shot_001.mp4,sensor_002.csv,pull_shot
+003,sweep_shot_001.mp4,sensor_003.csv,sweep_shot
